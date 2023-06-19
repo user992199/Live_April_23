@@ -1,0 +1,3 @@
+Preorder: 8 10 1 6 4 7 3 14 13 
+Inorder: 1 10 4 6 7 8 3 13 14 
+Postorder: 1 4 7 6 10 13 14 3 8 
